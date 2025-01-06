@@ -1,3 +1,10 @@
+''' 
+TODO
+- Clean Code up
+- Add anti-softlock everywhere
+- Maybe some new functions
+'''
+
 # I use a array dictionary to house the arrays, Name of the array is the students and the grades are the values
 gradebook = {'Venni': [75.5, 81.33, 72.50], 'Evan': [79.5, 90.45, 88.50], 'Teezy': [62.81, 58.5, 99.75], 'Cyrus': [70.71, 85.57, 0.0], 'Caden': [96.7, 100.0, 89.95]}
 
